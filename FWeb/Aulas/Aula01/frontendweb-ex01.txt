@@ -1,0 +1,13 @@
+<DOCTYPE html>
+<html>
+	<head>
+		<title> Front End Web Exercicio 01 </title>
+		<meta charset="utf-8">
+	</head>
+	<body>
+		<h1>Amanda Piovesana</h1>
+		<h2>16 anos</h2>
+		<p>Pintar</p>
+		<p>Ganhar dinheiro</p>
+	</body>
+</html>
